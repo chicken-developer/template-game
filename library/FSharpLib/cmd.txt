@@ -1,0 +1,5 @@
+Create: dotnet new classlib -lang "F#" -o src/Library
+Build: cd into FSharp project 
+        dotnet build
+
+dotnet build -o E:\DevGame\Game\template\client\unity3d_client\Assets\Frameworks\bin
